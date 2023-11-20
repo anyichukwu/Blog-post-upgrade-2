@@ -1,0 +1,6 @@
+# Files to ignore
+venv
+decorators.py
+__pycache__
+.idea
+instance
